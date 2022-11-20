@@ -1,5 +1,5 @@
 # Test2
-### a
+### a 
 Following are rules for recognizing all lexemes as their proper token:
 1)  The compiler first reads the source code which is in the form of High level or any level language.
 2) The language analyzer sort the source code into lexemes, which are the grammar of the machine the valid lexemes are tokens.
@@ -166,7 +166,9 @@ yylex();
 printf("\n total no. of token = %d\n", n);
  
 }
+
  
+
 
 ![2](https://user-images.githubusercontent.com/99223665/202880191-1cb795bd-a5aa-49b2-9b58-a09d844fee12.png)
 
